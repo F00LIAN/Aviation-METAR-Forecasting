@@ -7,7 +7,7 @@ The parent project folder of the end to end implementation of the Aviation METAR
 
  <b>[**METAR API Call and MongoDB Upload**](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)</b>
  
- <b>[**METAR Model Training and Deployment**]()</b>
+ <b>[**METAR Model Training and Deployment (Adding Soon)**]()</b>
  
 
 
