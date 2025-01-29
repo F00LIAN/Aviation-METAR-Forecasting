@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e1362b1a-9e34-41ea-8aff-dcede6af8a0d" height="50%" width="50%" alt="METAR Logo"/>
+<img src="https://github.com/user-attachments/assets/e1362b1a-9e34-41ea-8aff-dcede6af8a0d" height="60%" width="60%" alt="METAR Logo"/>
 </p>
 
 # Aviation METAR Forecasting
